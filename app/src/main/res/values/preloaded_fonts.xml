@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/gothica1</item>
+        <item>@font/gothica1_black</item>
+        <item>@font/gothica1_bold</item>
+        <item>@font/gothica1_medium</item>
+        <item>@font/gothica1_semibold</item>
+    </array>
+</resources>
